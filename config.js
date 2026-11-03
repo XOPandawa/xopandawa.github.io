@@ -4,7 +4,7 @@ window.APP_CONFIG = {
   appUrl: 'https://script.google.com/macros/s/AKfycbxNPyLwwUkV-za9HkiEJtxjkMbge0TUGd6dYka8jRy7UADkiozr74y0_-B5it4q-yP38Q/exec',
 
   // OneSignal → Settings → Keys & IDs → "OneSignal App ID".
-  oneSignalAppId: 'PASTE_ONESIGNAL_APP_ID_HERE',
+  oneSignalAppId: '97ff8102-0037-42fd-b941-b3c035624c87',
 
   // Name under the icon on the phone.
   name: 'XO Pandawa Maintenance'
